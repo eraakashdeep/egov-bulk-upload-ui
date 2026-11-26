@@ -3,6 +3,8 @@
 **Developer:** Aakash Deep ([github.com/eraakashdeep](https://github.com/eraakashdeep))  
 **Organization:** eGov Foundation — Bulk Upload Status & Error Report UI
 
+> It is deployed and Lived on : [https://egov-bulk-upload-ui.vercel.app](https://egov-bulk-upload-ui.vercel.app)
+
 A React + TypeScript application and containerized stack for uploading large employee CSVs (500–50,000 rows), tracking asynchronous job progress with resilient polling, inspecting errors in a virtualized table, downloading spreadsheet-aligned error reports, comparing re-uploads against previous runs, and browsing the paginated employee directory.
 
 ---
