@@ -1,0 +1,11 @@
+{
+  "name": "bulk-upload-ui-workspace",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "npm --prefix frontend test",
+    "build": "npm --prefix frontend run build",
+    "dev:api": "node mock-api/server.js",
+    "dev:web": "npm --prefix frontend run dev"
+  }
+}

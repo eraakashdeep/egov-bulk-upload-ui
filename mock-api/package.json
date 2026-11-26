@@ -1,0 +1,13 @@
+{
+  "name": "kit-5-mock-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Mock backend for the bulk upload take-home",
+  "scripts": {
+    "start": "node server.js",
+    "generate": "node generate.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
